@@ -1,5 +1,6 @@
 Meu Nome é Robert, Obrigado por acessar meu GitHub.
 
-JAVA,
-Python,
-JavaScript.
+JAVA;
+JavaScript;
+HTML e CSS;
+BootStrap;
