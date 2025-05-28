@@ -22,13 +22,33 @@
 ---
 ## 📦 Repositórios em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=projetoAgendaAPI&cache_seconds=86400&theme=flag-india)](https://github.com/RobertPorteles/projetoAgendaAPI)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/RobertPorteles/projetoAgendaAPI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=projetoAgendaAPI&cache_seconds=86400&theme=flag-india" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/RobertPorteles/crudProdutos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=crudProdutos&cache_seconds=86400&theme=flag-india" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/RobertPorteles/apiOpenAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=apiOpenAI&cache_seconds=86400&theme=flag-india" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/RobertPorteles/strategyPatternDuck">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=strategyPatternDuck&cache_seconds=86400&theme=flag-india" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=crudProdutos&cache_seconds=86400&theme=flag-india)](https://github.com/RobertPorteles/crudProdutos)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=apiOpenAI&cache_seconds=86400&theme=flag-india)](https://github.com/RobertPorteles/apiOpenAI)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=strategyPatternDuck&cache_seconds=86400&theme=flag-india)](https://github.com/RobertPorteles/strategyPatternDuck)
 
 ---
 
