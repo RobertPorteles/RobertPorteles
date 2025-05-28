@@ -66,8 +66,14 @@
 
 ## 📫 Contato
 
-- 💼 [LinkedIn | Robert Porteles](https://www.linkedin.com/in/robert-porteles/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRk38OrgZQTOSKY%2F%2Fld4pgg%3D%3D)
-- 📧 robertporteless@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/robert-porteles/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRk38OrgZQTOSKY%2F%2Fld4pgg%3D%3D">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:robertporteless@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
