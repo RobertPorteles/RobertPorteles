@@ -13,31 +13,37 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=github-readme-stats&cache_seconds=86400&theme=flag-india" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india" width="300"/>
+
 
 ---
+## 📦 Repositórios em Destaque
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=projetoAgendaAPI&cache_seconds=86400&theme=flag-india)](https://github.com/RobertPorteles/projetoAgendaAPI)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=crudProdutos&cache_seconds=86400&theme=flag-india)](https://github.com/RobertPorteles/crudProdutos)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=apiOpenAI&cache_seconds=86400&theme=flag-india)](https://github.com/RobertPorteles/apiOpenAI)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=strategyPatternDuck&cache_seconds=86400&theme=flag-india)](https://github.com/RobertPorteles/strategyPatternDuck)
+
+---
+
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Robert%20Porteles&theme=flag-india&border_radius=8&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=532&background=45%2CFAFFA5%2CFFFFFFF3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Robert%20Porteles&theme=flag-india&border_radius=8&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=350&background=45%2CFAFFA5%2CFFFFFFF3)](https://git.io/streak-stats)
 
----
-
-## 🐍 Snake Game Contribution
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📧 robert.porteles@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/robert-porteles/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRk38OrgZQTOSKY%2F%2Fld4pgg%3D%3D)
+- 📧 robert.porteless@gmail.com
 
 ---
 
-**Sempre aprendendo, sempre evoluindo! 🚀**
