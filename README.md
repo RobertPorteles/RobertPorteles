@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india" width="500"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india" width="400"/>
@@ -59,7 +59,7 @@
 
 ## 🔥 Sequência GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Robert%20Porteles&theme=flag-india&border_radius=8&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&background=45%2CFAFFA5%2CFFFFFFF3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Robert%20Porteles&theme=flag-india&border_radius=8&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800&background=45%2CFAFFA5%2CFFFFFFF3)](https://git.io/streak-stats)
 
 
 ---
