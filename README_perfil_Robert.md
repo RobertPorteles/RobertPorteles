@@ -37,8 +37,8 @@
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📧 robert.porteles@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/robert-porteles/)
+- 📧 robert.porteless@gmail.com
 
 ---
 
