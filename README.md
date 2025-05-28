@@ -15,11 +15,9 @@
 
 ## 📊 GitHub Stats
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=robertporteles&repo=github-readme-stats&cache_seconds=86400&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertporteles&show_icons=true&theme=flag-india&cache_seconds=86400)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertporteles&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=github-readme-stats&cache_seconds=86400&theme=flag-india" width="400"/>
 
 ---
 
@@ -37,8 +35,8 @@
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/robert-porteles/)
-- 📧 robert.porteless@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 📧 robert.porteles@email.com
 
 ---
 
