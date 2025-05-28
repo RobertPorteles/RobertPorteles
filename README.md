@@ -59,14 +59,14 @@
 
 ## 🔥 Sequência GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Robert%20Porteles&theme=flag-india&border_radius=8&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800&background=45%2CFAFFA5%2CFFFFFFF3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Robert%20Porteles&theme=flag-india&border_radius=8&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000&background=45%2CFAFFA5%2CFFFFFFF3)](https://git.io/streak-stats)
 
 
 ---
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/robert-porteles/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRk38OrgZQTOSKY%2F%2Fld4pgg%3D%3D)
+- 💼 [LinkedIn | Robert Porteles](https://www.linkedin.com/in/robert-porteles/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRk38OrgZQTOSKY%2F%2Fld4pgg%3D%3D)
 - 📧 robertporteless@gmail.com
 
 ---
