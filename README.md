@@ -52,7 +52,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india" width="450"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india" width="400"/>
+      <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india)
+" width="400"/>
     </td>
   </tr>
 </table>
