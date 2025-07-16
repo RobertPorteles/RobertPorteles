@@ -1,4 +1,3 @@
-
 # 👋 Olá! Eu sou o Robert Porteles
 
 ## 🚀 Tecnologias que uso e estudo
@@ -12,6 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
+
 ## 📦 Repositórios em Destaque
 
 <table>
@@ -41,7 +41,6 @@
   </tr>
 </table>
 
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -52,8 +51,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india" width="450"/>
     </td>
     <td>
-      <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india)
-" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india" width="400"/>
     </td>
   </tr>
 </table>
@@ -61,7 +59,6 @@
 ## 🔥 Sequência GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Robert%20Porteles&theme=flag-india&border_radius=8&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000&background=45%2CFAFFA5%2CFFFFFFF3)](https://git.io/streak-stats)
-
 
 ---
 
@@ -75,6 +72,3 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
