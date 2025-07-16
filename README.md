@@ -45,6 +45,8 @@
 
 ## 📊 Estatísticas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 <table>
   <tr>
     <td>
@@ -55,6 +57,7 @@
     </td>
   </tr>
 </table>
+
 
 ## 🔥 Sequência GitHub
 
