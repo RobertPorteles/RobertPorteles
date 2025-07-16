@@ -57,11 +57,14 @@
 ## 🔥 Sequência GitHub
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Robert%20Porteles&theme=flag-india&border_radius=8&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000&background=45%2CFAFFA5%2CFFFFFFF3"
-         style="max-width:1000px; width:100%;" />
-  </a>
+  <p float="left" style="max-width:900px; width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india"
+         width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india&show_icons=true&langs_count=8"
+         width="49%" />
+  </p>
 </div>
+
 
 ---
 
