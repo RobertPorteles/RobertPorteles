@@ -46,17 +46,6 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india"
-       style="max-width:450px; width:100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india&show_icons=true&langs_count=8"
-       style="max-width:400px; width:100%; margin-top:1rem;" />
-</div>
-
----
-
-## 🔥 Sequência GitHub
-
-<div align="center">
   <p float="left" style="max-width:900px; width:100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india"
          width="49%" />
@@ -65,8 +54,6 @@
   </p>
 </div>
 
-
----
 
 ## 📫 Contato
 
