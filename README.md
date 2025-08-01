@@ -54,7 +54,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="left">
   <p float="left">
     <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india"
          width="450px" height="350px" />
