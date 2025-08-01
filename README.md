@@ -48,7 +48,7 @@
 <div align="center">
   <p float="left" style="max-width:900px; width:100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india"
-         width="200px" />
+         width="500px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india&show_icons=true&langs_count=8"
          width="200px" />
   </p>
