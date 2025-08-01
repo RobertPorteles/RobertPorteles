@@ -50,7 +50,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india"
          width="200px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india&show_icons=true&langs_count=8"
-         width="800px" />
+         width="200px" />
   </p>
 </div>
 
