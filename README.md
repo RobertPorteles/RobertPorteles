@@ -57,7 +57,7 @@
 <div align="center">
   <p float="left">
     <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india"
-         width="250px" height="500px" />
+         width="500px" height="500px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india&show_icons=true&langs_count=8"
          width="250px" />
   </p>
