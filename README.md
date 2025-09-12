@@ -33,42 +33,21 @@
 
 ---
 
-## 📦 Repositórios em Destaque
+## 🚀 Projetos em destaque
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/RobertPorteles/projetoAgendaAPI">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=projetoAgendaAPI&cache_seconds=86400&theme=flag-india"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/RobertPorteles/crudProdutos">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=crudProdutos&cache_seconds=86400&theme=flag-india"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/RobertPorteles/apiOpenAI">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=apiOpenAI&cache_seconds=86400&theme=flag-india"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/RobertPorteles/strategyPatternDuck">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=RobertPorteles&repo=strategyPatternDuck&cache_seconds=86400&theme=flag-india"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+- [**Finanças Web**](https://github.com/RobertPorteles/FinancasWeb)  
+  Aplicação frontend em Angular para gestão financeira pessoal, integrada com API backend.  
+
+- [**Finanças API**](https://github.com/RobertPorteles/FinancasAPI)  
+  API REST em Spring Boot para controle de receitas e despesas, com autenticação e persistência em banco de dados.  
+
+- [**Usuários API**](https://github.com/RobertPorteles/UsuariosAPI)  
+  API para cadastro e autenticação de usuários, aplicando boas práticas de arquitetura e segurança.  
+
+---
+
+📫 Entre em contato: [LinkedIn](https://www.linkedin.com/in/robert-porteles/) | [Email](mailto:robertporteless@gmail.com)
+
 
 
 ---
