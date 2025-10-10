@@ -20,11 +20,6 @@
 
 <h2 align="left">👩‍💻  Desenvolvedor FullStack !</h2>
 
-###
-
-<img align="right" height="355" src="https://media.licdn.com/dms/image/v2/D4D03AQHB1Dx-_nFHxg/profile-displayphoto-crop_800_800/B4DZjpGXASHsAI-/0/1756257415661?e=1759968000&v=beta&t=G36o_s2y948gEnRIvGHSnsueKVRKEcphJ2YGuFWeWos"  />
-
-###
 
 <p> Estudante de Sistemas de Informação, em fase final da graduação, e formado em curso de capacitação profissional Full Stack Java. Tenho experiência prática em projetos de desenvolvimento com foco em backend Java (Spring Boot) e frontend Angular, aplicando mensageria, integração de APIs e containers Docker.<br><br>Durante minha formação, aprofundei conhecimentos em bancos de dados (PostgreSQL, MySQL e MongoDB), orientação a objetos em Java, arquitetura limpa, DDD (Domain Driven Design) e TDD (Test Driven Development). Também atuei com Angular 20, Spring Data JPA/Hibernate, RabbitMQ, Docker e integração com OpenAI (ChatGPT).<br><br>Busco minha primeira oportunidade como Desenvolvedor Full Stack Java, para aplicar na prática minhas habilidades em projetos reais. Meu portfólio no GitHub reúne aplicações que demonstram domínio em APIs REST, microservices, mensageria e boas práticas de programação.</p>
 
