@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em destaque:
 
 - [**Finanças Web**](https://github.com/RobertPorteles/FinancasWeb)  
   Aplicação frontend em Angular para gestão financeira pessoal, integrada com API backend.  
@@ -38,6 +38,10 @@
 
 - [**Usuários API**](https://github.com/RobertPorteles/UsuariosAPI)  
   API para cadastro e autenticação de usuários, aplicando boas práticas de arquitetura e segurança.  
+
+## 🚀 Projeto Colaborativo:
+
+[**PaiDePet**](https://github.com/RobertPorteles/paiDePetWeb) 
 
 ---
 
