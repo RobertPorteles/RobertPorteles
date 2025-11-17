@@ -41,7 +41,7 @@
 
 ## 🚀 Projeto Colaborativo:
 
-- [**PaiDePet**](https://github.com/RobertPorteles/paiDePetWeb) 
+- [**PaiDePetWeb**](https://github.com/RobertPorteles/paiDePetWeb) 
 
 ---
 
