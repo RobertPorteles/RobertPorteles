@@ -1,4 +1,4 @@
-
+# Olá — eu sou o Robert Porteles! 👋
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -10,44 +10,68 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="left" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-###
+### Sobre mim
 
-<h1 align="left">Meu nome é Robert Porteles! 👋</h1>
+Sou estudante de Sistemas de Informação (em fase final) e formado em um curso profissionalizante Full Stack Java. Tenho experiência em desenvolvimento de aplicações web — especialmente com Java, Spring Boot, Angular e bancos relacionais (PostgreSQL). Gosto de construir soluções simples e funcionais, seguindo boas práticas de arquitetura, testes e versionamento com Git.
 
-###
-
-<h2 align="left">👩‍💻  Desenvolvedor FullStack !</h2>
-
-
-<p> Estudante de Sistemas de Informação, em fase final da graduação, e formado em curso de capacitação profissional Full Stack Java. Tenho experiência prática em projetos de desenvolvimento com foco em backend Java (Spring Boot) e frontend Angular, aplicando mensageria, integração de APIs e containers Docker.<br><br>Durante minha formação, aprofundei conhecimentos em bancos de dados (PostgreSQL, MySQL e MongoDB), orientação a objetos em Java, arquitetura limpa, DDD (Domain Driven Design) e TDD (Test Driven Development). Também atuei com Angular 20, Spring Data JPA/Hibernate, RabbitMQ, Docker e integração com OpenAI (ChatGPT).<br><br>Busco minha primeira oportunidade como Desenvolvedor Full Stack Java, para aplicar na prática minhas habilidades em projetos reais. Meu portfólio no GitHub reúne aplicações que demonstram domínio em APIs REST, microservices, mensageria e boas práticas de programação.</p>
-
-###
-
+Principais competências:
+- Desenvolvimento backend com Java e Spring Boot
+- Frontend com Angular e TypeScript
+- Persistência com PostgreSQL
+- Conteinerização com Docker
+- Controle de versão com Git
+- Boas práticas de REST, segurança e testes
 
 ---
 
-## 🚀 Projetos em destaque:
+## 🚀 Projetos em destaque
 
 - [**Finanças Web**](https://github.com/RobertPorteles/FinancasWeb)  
-  Aplicação frontend em Angular para gestão financeira pessoal, integrada com API backend.  
+  Frontend em Angular para gestão financeira pessoal. Interface limpa para cadastrar receitas, despesas e visualizar gráficos.
 
 - [**Finanças API**](https://github.com/RobertPorteles/FinancasAPI)  
-  API REST em Spring Boot para controle de receitas e despesas, com autenticação e persistência em banco de dados.  
+  API REST em Spring Boot que gerencia receitas e despesas, com autenticação, validação e persistência em PostgreSQL.
 
 - [**Usuários API**](https://github.com/RobertPorteles/UsuariosAPI)  
-  API para cadastro e autenticação de usuários, aplicando boas práticas de arquitetura e segurança.  
+  Serviço dedicado ao cadastro e autenticação de usuários, com foco em segurança e boas práticas.
 
-## 🚀 Projeto Colaborativo:
+## 🤝 Projeto colaborativo
 
-- [**PaiDePetWeb**](https://github.com/RobertPorteles/paiDePetWeb) 
+- [**PaiDePetWeb**](https://github.com/RobertPorteles/paiDePetWeb)  
+  Projeto em equipe com proposta de transformar ideias em features reais — experiência valiosa em colaboração e integração de código.
 
 ---
 
-📫 Entre em contato: [LinkedIn](https://www.linkedin.com/in/robert-porteles/) | [Email](mailto:robertporteless@gmail.com)
+## 🛠️ Tecnologias / Ferramentas
 
+- Linguagens: Java, TypeScript, HTML, CSS
+- Frameworks: Spring Boot, Angular
+- Banco de dados: PostgreSQL
+- DevOps / Ferramentas: Docker, Git, GitHub
+- Outros: REST APIs, JWT, testes automatizados
 
+---
+
+## 📄 Como rodar (exemplo rápido)
+
+1. Clone o repositório do projeto desejado:
+   - git clone https://github.com/RobertPorteles/FinancasAPI.git
+2. Configure as variáveis de ambiente (ex.: URL do banco, usuário, senha).
+3. Rode com Docker / Docker Compose (quando aplicável) ou diretamente com Maven/Gradle:
+   - ./mvnw spring-boot:run  (ou `mvn spring-boot:run`)
+4. Para o frontend:
+   - entrar na pasta do projeto Angular, instalar dependências com `npm install` e rodar `ng serve`.
+
+(Se quiser, eu posso adicionar instruções específicas para qualquer repositório.)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [Robert Porteles](https://www.linkedin.com/in/robert-porteles/)
+- Email: robertporteless@gmail.com
 
 ---
 
@@ -62,14 +86,4 @@
   </p>
 </div>
 
-
-## 📫 Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/robert-porteles/">
-    <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:robertporteless@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+---
