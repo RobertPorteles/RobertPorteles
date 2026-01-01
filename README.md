@@ -41,7 +41,13 @@
 
 ## 🚀 Projeto Colaborativo:
 
-- [**PaiDePetWeb**](https://github.com/RobertPorteles/paiDePetWeb) 
+
+
+- [**FornecedorHackathon**](https://github.com/RobertPorteles/fornecedorHackatom)
+  
+- [**ApiLoginHackathon**](https://github.com/RobertPorteles/hackApiLogin)
+  
+- [**ApiEmpresaHackathon**](https://github.com/RobertPorteles/hackApiEmpresa) 
 
 ---
 
