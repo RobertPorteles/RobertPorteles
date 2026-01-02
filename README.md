@@ -53,20 +53,7 @@
 
 📫 Entre em contato: [LinkedIn](https://www.linkedin.com/in/robert-porteles/) | [Email](mailto:robertporteless@gmail.com)
 
-
-
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="left">
-  <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=RobertPorteles&show_icons=true&theme=flag-india"
-         width="450px" height="350px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPorteles&layout=compact&theme=flag-india&show_icons=true&langs_count=8"
-         width="342px" />
-  </p>
-</div>
 
 
 ## 📫 Contato
